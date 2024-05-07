@@ -36,4 +36,4 @@ su - ${USER}
 sudo systemctl enable docker
 
 # Verify Docker is installed and working
-sudo systemctl status docker
+#sudo systemctl status docker
